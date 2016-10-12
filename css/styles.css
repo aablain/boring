@@ -1,0 +1,23 @@
+.top{
+  width: 800px;
+  margin: 0 auto;
+}
+
+.container{
+  display: flex;
+  text-align: center;
+}
+.item{
+  margin:10px;
+}
+
+h2.intro{
+  font-weight: lighter;
+}
+
+p.intro{
+  font-size: 36px;
+}
+img.intro{
+  width: 300px;
+}
