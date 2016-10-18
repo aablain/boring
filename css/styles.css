@@ -15,9 +15,14 @@ h2.intro{
   font-weight: lighter;
 }
 
-p.intro{
-  font-size: 36px;
-}
 img.intro{
   width: 300px;
+}
+
+.introClicked{
+  background-color: yellow;
+  border: 2px solid red;
+}
+p.intro:hover{
+  text-decoration: underline;
 }
